@@ -1,0 +1,23 @@
+<!--pages/wode-2/wode-2.wxml-->
+<view class="information">
+  <view class="massage">
+    <text >我的头像</text>
+  </view>
+  <view class="tou_xiang">
+    <image src="../../image/renxiang.png" style="height:75px;width:75px"></image>
+  </view>
+</view>
+<view class="banji" bindtap="">
+  <text>我的班级</text>
+  <image src="../../image/xiangyou.png" style="float:right;width:20px;height:20px;margin-right:2px"></image>
+  <text style="float:right;font-size:13px;margin-right:15px;  position: relative;top: 5px;">软件工程</text>
+</view>
+<view class="xuehao" bindtap="">
+  <text>我的学号</text>
+  <image src="../../image/xiangyou.png" style="float:right;width:20px;height:20px;margin-right:2px"></image>
+  <text style="float:right;font-size:13px;margin-right:15px;  position: relative;top: 5px;">2019300000</text>
+</view>
+<view class="kebiao" bindtap="">
+  <text>我的课表</text>
+  <image src="../../image/xiangyou.png" style="float:right;width:20px;height:20px;margin-right:2px"></image>
+</view>

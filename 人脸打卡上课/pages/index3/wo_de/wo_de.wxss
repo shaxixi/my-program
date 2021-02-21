@@ -1,0 +1,31 @@
+/* pages/wode-2/wode-2.wxss */
+.information{
+  height: 100px;
+}
+
+.tou_xiang{
+  float: right;
+  width: 80px;
+  height: 80px;
+  margin: 10px 30px;
+  border-radius: 15px;
+  border: solid #1296db 2px;
+  text-align: center;
+}
+
+.massage{
+  padding-top:60px;
+  float: left;
+  margin: 10px 20px;
+  
+}
+.xuehao , .banji , .kebiao{
+  margin: 0 20px;
+  padding:10px 0;
+  border-bottom: solid 1px #1296db;
+
+}
+
+.banji{
+  border-top: solid 1px #1296db;
+}

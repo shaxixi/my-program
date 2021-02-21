@@ -1,0 +1,26 @@
+<view class="information">
+  <view class="niang_ji">
+    <text style="color: white;background: #1296db;padding:0 5px;margin:0 0; border-radius: 15px;">2018届</text>
+  </view>
+  <view class="tou_xiang">
+    <image src="../image/renxiang.png" style="height:75px;width:75px"></image>
+  </view>
+  <view class="massage">
+    <text style="font-style: strong;font-size:15px;">莫容前传
+    </text>
+    <text style="font-size:13px">
+      岭南师范学院 - 软件工程</text>
+  </view>
+</view>
+<view class="wode" bindtap="wode">
+  <text>我的</text>
+  <image src="../image/xiangyou.png" style="float:right;width:20px;height:20px;margin-right:2px"></image>
+</view>
+<view class="shuju" bindtap="shuju">
+  <text>我的打卡数据</text>
+  <image src="../image/xiangyou.png" style="float:right;width:20px;height:20px;margin-right:2px"></image>
+</view>
+<view class="guanyu" bindtap="guanyu">
+  <text>关于</text>
+  <image src="../image/xiangyou.png" style="float:right;width:20px;height:20px;margin-right:2px"></image>
+</view>

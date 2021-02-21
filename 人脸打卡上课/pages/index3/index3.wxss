@@ -1,0 +1,40 @@
+/* pages/index3/index3.wxss */
+/* pages/wo_de/wo_de.wxss */
+.information{
+  height: 125px;
+}
+
+.niang_ji{
+  text-align: right;
+  font-size: 15px;
+  padding: 0 25px;
+  
+}
+
+.tou_xiang{
+  float: left;
+  width: 80px;
+  height: 80px;
+  margin: 10px 20px;
+  border-radius: 15px;
+  border: solid #1296db 2px;
+  text-align: center;
+}
+
+.massage{
+  padding-top:20px;
+  height: 75px;
+  float: left;
+  margin: 0 15px;
+}
+
+.wode , .shuju , .guanyu{
+  margin: 0 25px;
+  padding:10px 0;
+  border-bottom: solid 1px#1296db;
+}
+
+.wode{
+  border-top: solid 1px #1296db;
+}
+

@@ -1,0 +1,28 @@
+<view class="message">
+  <image style="width:20px;height:20px;padding-right:10px;" src="../image/laba.png" ></image>
+  <text>资讯：学生因翻墙外出掉进粪坑.....</text>
+</view>
+
+<view class="map">
+  <map 
+  id="mapId"
+  class="map"
+  latitude="{{latitude}}"
+  longitude="{{longitude}}"
+  bindmarkertap="onMarkerTap"
+  bindcallouttap="onCalloutTap"
+  bindlabeltap="onLabelTap">
+    <view class="histroy">  
+    <view class="icon-small-wrp">
+      <icon class="icon-small" type="success" size="23" style="float:left"></icon>
+    </view>
+    <view class="text">
+      <text>今日15：30 
+        教一
+        软件工程 - 稳妥
+      </text> 
+    </view>
+    </view>
+    <button bindtap="getCenterLocation" class="page-body-button" type="primary">获取位置</button>
+  </map>
+</view>

@@ -1,0 +1,19 @@
+/* pages/index3/guan_yu/guan_yu.wxss */
+.title{
+  text-align: center;
+  height: 26px;
+  margin: 12px;
+}
+
+.num{
+  text-align: center;
+  height: 20px;
+  margin-bottom: 10px;
+}
+
+.about{
+  height: 300px;
+  border-bottom: solid black 1px;
+  margin: 20px 40px;
+  text-align: center;
+}

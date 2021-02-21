@@ -1,0 +1,11 @@
+<!--pages/index3/guan_yu/guan_yu.wxml-->
+<view class="title">
+  <text style="font-size:20px;">人脸打卡程序</text>
+</view>
+<view class="num">
+  <text style="font-size:11px">v1.0</text>
+</view>
+<view class="about">
+  <text style="font-size:13px;">这是一段关于该程序的一些介绍
+/////////////////////////////////</text>
+</view>

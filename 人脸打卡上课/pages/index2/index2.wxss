@@ -1,0 +1,33 @@
+/* pages/index2/index2.wxss */
+.message{
+  background-color: #da5a43;
+  font-size: 14px;
+  color: white;
+  padding: 5px 5px;
+  height: 5%;
+}
+
+.face{
+  margin: 10% 20%;
+  border-radius: 25px;
+  max-width: 60%;
+  height: 13.5rem;
+  text-align: center;
+  border: #1296db solid 3px;
+}
+
+.name, .adress, .class{
+  padding: 5px 0;
+  margin: 0 20%;
+  border-bottom: solid #1296db 1px;
+}
+
+.succeess{
+  padding: 10px;
+  background-color: #6acafd;
+  text-align: center;
+  color: rgb(70, 70, 70);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}

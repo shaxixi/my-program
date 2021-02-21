@@ -1,0 +1,29 @@
+<!--pages/index2/index2.wxml-->
+<!--index.wxml-->
+<view class="message">
+  <image style="width:20px;height:20px;padding-right:10px;" src="../image/laba.png" ></image>
+  <text>资讯：学生因翻墙外出掉进粪坑.....</text>
+</view>
+
+<view class="face" >
+  <image style="height:13rem;width:90%;" src="../image/renxiang.png"></image>
+</view>
+
+
+  <view class="name">
+    <image style="width:15px;height:15px;padding-right:10px" src="../image/xingming.png"></image>
+    <text>姓名：稳妥</text>
+  </view>
+  <view class="adress">
+    <image style="width:15px;height:15px;padding-right:10px" src="../image/didian.png"></image>
+    <text>地点：教一</text>
+  </view>
+  <view class="class">
+    <image style="width:15px;height:15px;padding-right:10px" src="../image/kecheng.png"></image>
+    <text>课程：计算机网络</text>
+  </view>
+
+
+<view class="succeess">
+  <text>打卡成功 2020/12/15 15：30</text>
+</view>
